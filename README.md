@@ -74,15 +74,21 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
+
 ### Input Grayscale Image and Color Image
 ![Screenshot from 2023-09-05 09-22-37](https://github.com/DHARINIPV/HISTOGRAM/assets/119400845/94e36438-5c1f-4e93-8365-af516ea9b450)
 
+
 ### Histogram of Grayscale Image and any channel of Color Image
+
 ![Screenshot from 2023-09-05 09-24-37](https://github.com/DHARINIPV/HISTOGRAM/assets/119400845/50ab4f5b-b5d4-40a3-92df-c75cd9bed411)
+
 ![Screenshot from 2023-09-05 09-24-52](https://github.com/DHARINIPV/HISTOGRAM/assets/119400845/8ef63b84-a609-4fca-936e-004f08c727e8)
 
 ### Histogram Equalization of Grayscale Image
+
 ![Screenshot from 2023-09-05 09-36-15](https://github.com/DHARINIPV/HISTOGRAM/assets/119400845/90650b11-aafe-487f-be66-377273f3d185)
+
 ![Screenshot from 2023-09-05 09-35-09](https://github.com/DHARINIPV/HISTOGRAM/assets/119400845/cec90f84-5518-4fd9-871b-45d0222e4ff7)
 
 ## Result: 
